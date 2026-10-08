@@ -28,7 +28,7 @@ exact commands.
 
 ```sh
 git clone https://gitlab.com/phantomfoundry/karrik_fonts
-pip install ufoLib2 fonttools pyclipper fontmake
+pip install ufoLib2 fonttools pyclipper fontmake brotli
 ./build.sh
 ```
 
