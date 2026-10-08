@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign.LP" format="2">
+  <advance width="546.0"/>
+  <outline>
+    <contour>
+      <point x="181.638" y="183.6" type="line"/>
+      <point x="325.038" y="183.6" type="line"/>
+      <point x="276.038" y="0.0" type="line"/>
+      <point x="338.637" y="0.0" type="line"/>
+      <point x="387.638" y="183.6" type="line"/>
+      <point x="477.646" y="183.6" type="line"/>
+      <point x="492.947" y="240.8" type="line"/>
+      <point x="403.125" y="240.8" type="line"/>
+      <point x="458.541" y="453.6" type="line"/>
+      <point x="548.68" y="453.6" type="line"/>
+      <point x="563.891" y="510.0" type="line"/>
+      <point x="473.421" y="510.0" type="line"/>
+      <point x="522.421" y="680.0" type="line"/>
+      <point x="460.05" y="680.0" type="line"/>
+      <point x="411.05" y="510.0" type="line"/>
+      <point x="267.421" y="510.0" type="line"/>
+      <point x="316.421" y="680.0" type="line"/>
+      <point x="254.05" y="680.0" type="line"/>
+      <point x="205.05" y="510.0" type="line"/>
+      <point x="115.32" y="510.0" type="line"/>
+      <point x="100.109" y="453.6" type="line"/>
+      <point x="189.875" y="453.6" type="line"/>
+      <point x="134.459" y="240.8" type="line"/>
+      <point x="44.354" y="240.8" type="line"/>
+      <point x="29.052999999999997" y="183.6" type="line"/>
+      <point x="119.03800000000001" y="183.6" type="line"/>
+      <point x="70.038" y="0.0" type="line"/>
+      <point x="132.637" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="197.125" y="240.8" type="line"/>
+      <point x="252.541" y="453.6" type="line"/>
+      <point x="395.875" y="453.6" type="line"/>
+      <point x="340.459" y="240.8" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar.three" format="2">
+  <advance width="636.0"/>
+  <outline>
+    <contour>
+      <point x="165.0" y="315.36" type="line"/>
+      <point x="471.0" y="315.36" type="line"/>
+      <point x="471.0" y="0.0" type="line"/>
+      <point x="550.0" y="0.0" type="line"/>
+      <point x="550.0" y="565.0" type="line"/>
+      <point x="604.0" y="565.0" type="line"/>
+      <point x="604.0" y="610.0" type="line"/>
+      <point x="550.0" y="610.0" type="line"/>
+      <point x="550.0" y="680.0" type="line"/>
+      <point x="471.0" y="680.0" type="line"/>
+      <point x="471.0" y="610.0" type="line"/>
+      <point x="165.0" y="610.0" type="line"/>
+      <point x="165.0" y="680.0" type="line"/>
+      <point x="86.0" y="680.0" type="line"/>
+      <point x="86.0" y="610.0" type="line"/>
+      <point x="32.0" y="610.0" type="line"/>
+      <point x="32.0" y="565.0" type="line"/>
+      <point x="86.0" y="565.0" type="line"/>
+      <point x="86.0" y="0.0" type="line"/>
+      <point x="165.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="165.0" y="402.8" type="line"/>
+      <point x="165.0" y="565.0" type="line"/>
+      <point x="471.0" y="565.0" type="line"/>
+      <point x="471.0" y="402.8" type="line"/>
+    </contour>
+  </outline>
+</glyph>

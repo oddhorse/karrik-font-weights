@@ -1,0 +1,8 @@
+.venv/
+karrik_fonts/
+__pycache__/
+build/
+proofs/
+offset_weight.orig.py
+/Karrik-*.ufo
+.DS_Store

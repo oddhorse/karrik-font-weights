@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T.two" format="2">
+  <advance width="596.0"/>
+  <outline>
+    <contour>
+      <point x="337.0" y="607.0" type="line"/>
+      <point x="566.0" y="607.0" type="line"/>
+      <point x="566.0" y="680.0" type="line"/>
+      <point x="30.0" y="680.0" type="line"/>
+      <point x="30.0" y="607.0" type="line"/>
+      <point x="259.0" y="607.0" type="line"/>
+      <point x="259.0" y="0.0" type="line"/>
+      <point x="337.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

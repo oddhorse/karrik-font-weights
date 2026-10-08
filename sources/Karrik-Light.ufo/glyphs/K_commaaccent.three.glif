@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kcommaaccent.three" format="2">
+  <advance width="564.0"/>
+  <outline>
+    <component base="K.three"/>
+    <component base="commaaccent.cap" xOffset="52.0"/>
+  </outline>
+</glyph>

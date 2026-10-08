@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent.cap" format="2">
+  <advance width="540.0"/>
+  <anchor x="321.0" y="430" name="_top"/>
+  <outline>
+    <contour>
+      <point x="522.7719999999999" y="860.0001" type="line"/>
+      <point x="368.628" y="860.0001" type="line"/>
+      <point x="331.228" y="728.0001" type="line"/>
+      <point x="485.372" y="728.0001" type="line"/>
+    </contour>
+  </outline>
+</glyph>

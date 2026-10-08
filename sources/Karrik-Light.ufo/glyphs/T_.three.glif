@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T.three" format="2">
+  <advance width="502.0"/>
+  <outline>
+    <contour>
+      <point x="290.0" y="607.0" type="line"/>
+      <point x="469.0" y="607.0" type="line"/>
+      <point x="469.0" y="680.0" type="line"/>
+      <point x="33.0" y="680.0" type="line"/>
+      <point x="33.0" y="607.0" type="line"/>
+      <point x="212.0" y="607.0" type="line"/>
+      <point x="212.0" y="0.0" type="line"/>
+      <point x="290.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

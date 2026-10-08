@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K.three" format="2">
+  <advance width="564.0"/>
+  <outline>
+    <contour>
+      <point x="165.0" y="252.473" type="line"/>
+      <point x="257.865" y="373.416" type="line"/>
+      <point x="419.148" y="0.0" type="line"/>
+      <point x="513.068" y="0.0" type="line"/>
+      <point x="312.693" y="445.297" type="line"/>
+      <point x="503.909" y="680.0" type="line"/>
+      <point x="412.304" y="680.0" type="line"/>
+      <point x="191.285" y="417.575" type="line"/>
+      <point x="165.0" y="427.169" type="line"/>
+      <point x="165.0" y="680.0" type="line"/>
+      <point x="86.0" y="680.0" type="line"/>
+      <point x="86.0" y="0.0" type="line"/>
+      <point x="165.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

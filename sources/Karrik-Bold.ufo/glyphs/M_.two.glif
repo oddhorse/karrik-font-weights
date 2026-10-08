@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M.two" format="2">
+  <advance width="851.0"/>
+  <outline>
+    <contour>
+      <point x="230.0" y="329.4063" type="line"/>
+      <point x="329.734" y="0.0" type="line"/>
+      <point x="503.117" y="0.0" type="line"/>
+      <point x="601.0" y="296.4354" type="line"/>
+      <point x="601.0" y="0.0" type="line"/>
+      <point x="765.0" y="0.0" type="line"/>
+      <point x="765.0" y="680.0001" type="line"/>
+      <point x="537.779" y="680.0001" type="line"/>
+      <point x="399.929" y="236.5941" type="line"/>
+      <point x="274.373" y="680.0001" type="line"/>
+      <point x="86.0" y="680.0001" type="line"/>
+      <point x="86.0" y="0.0" type="line"/>
+      <point x="230.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y.three" format="2">
+  <advance width="562.0"/>
+  <outline>
+    <contour>
+      <point x="320.0" y="349.018" type="line"/>
+      <point x="544.287" y="680.0" type="line"/>
+      <point x="449.693" y="680.0" type="line"/>
+      <point x="281.785" y="428.586" type="line"/>
+      <point x="118.154" y="680.0" type="line"/>
+      <point x="17.625" y="680.0" type="line"/>
+      <point x="241.0" y="348.997" type="line"/>
+      <point x="241.0" y="0.0" type="line"/>
+      <point x="320.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

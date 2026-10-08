@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K.two" format="2">
+  <advance width="644.0"/>
+  <outline>
+    <contour>
+      <point x="245.0" y="239.52299999999997" type="line"/>
+      <point x="430.106" y="0.0" type="line"/>
+      <point x="609.015" y="0.0" type="line"/>
+      <point x="328.616" y="372.8265" type="line"/>
+      <point x="612.294" y="680.0001" type="line"/>
+      <point x="427.632" y="680.0001" type="line"/>
+      <point x="245.0" y="474.41939999999994" type="line"/>
+      <point x="245.0" y="680.0001" type="line"/>
+      <point x="86.0" y="680.0001" type="line"/>
+      <point x="86.0" y="0.0" type="line"/>
+      <point x="245.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

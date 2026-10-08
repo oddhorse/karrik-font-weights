@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="integral" format="2">
+  <advance width="340.0"/>
+  <unicode hex="222B"/>
+  <outline>
+    <contour>
+      <point x="328.327" y="578.0001" type="line"/>
+      <point x="413.342" y="578.0001" type="line"/>
+      <point x="442.808" y="680.0001" type="line"/>
+      <point x="227.673" y="680.0001" type="line"/>
+      <point x="6.673" y="-78.0" type="line"/>
+      <point x="-78.342" y="-78.0" type="line"/>
+      <point x="-107.808" y="-180.0" type="line"/>
+      <point x="107.327" y="-180.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

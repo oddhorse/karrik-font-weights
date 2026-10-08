@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M.three" format="2">
+  <advance width="803.0"/>
+  <outline>
+    <contour>
+      <point x="165.0" y="564.966" type="line"/>
+      <point x="198.478" y="570.499" type="line"/>
+      <point x="392.327" y="0.0" type="line"/>
+      <point x="405.742" y="0.0" type="line"/>
+      <point x="604.613" y="576.523" type="line"/>
+      <point x="638.0" y="570.926" type="line"/>
+      <point x="638.0" y="0.0" type="line"/>
+      <point x="717.0" y="0.0" type="line"/>
+      <point x="717.0" y="680.0" type="line"/>
+      <point x="556.406" y="680.0" type="line"/>
+      <point x="414.391" y="254.794" type="line"/>
+      <point x="385.482" y="254.886" type="line"/>
+      <point x="246.497" y="680.0" type="line"/>
+      <point x="86.0" y="680.0" type="line"/>
+      <point x="86.0" y="0.0" type="line"/>
+      <point x="165.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

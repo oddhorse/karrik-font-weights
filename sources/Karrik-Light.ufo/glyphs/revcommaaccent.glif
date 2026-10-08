@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="revcommaaccent" format="2">
+  <advance width="460.0"/>
+  <anchor x="230.0" y="610.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="284.0" y="850.0" type="line"/>
+      <point x="212.877" y="850.0" type="line"/>
+      <point x="214.384" y="877.569" type="line"/>
+      <point x="215.645" y="884.991" type="line"/>
+      <point x="217.769" y="892.2" type="line"/>
+      <point x="220.75" y="899.1" type="line"/>
+      <point x="224.555" y="905.599" type="line"/>
+      <point x="229.133" y="911.612" type="line"/>
+      <point x="234.414" y="917.081" type="line"/>
+      <point x="240.329" y="921.969" type="line"/>
+      <point x="246.81099999999998" y="926.257" type="line"/>
+      <point x="253.805" y="929.946" type="line"/>
+      <point x="261.271" y="933.043" type="line"/>
+      <point x="269.182" y="935.562" type="line"/>
+      <point x="277.518" y="937.511" type="line"/>
+      <point x="285.0" y="938.698" type="line"/>
+      <point x="285.0" y="969.453" type="line"/>
+      <point x="270.934" y="968.458" type="line"/>
+      <point x="256.057" y="966.534" type="line"/>
+      <point x="242.664" y="963.858" type="line"/>
+      <point x="230.724" y="960.453" type="line"/>
+      <point x="220.232" y="956.362" type="line"/>
+      <point x="211.113" y="951.619" type="line"/>
+      <point x="203.256" y="946.238" type="line"/>
+      <point x="196.528" y="940.199" type="line"/>
+      <point x="190.769" y="933.396" type="line"/>
+      <point x="185.855" y="925.662" type="line"/>
+      <point x="181.749" y="916.84" type="line"/>
+      <point x="178.454" y="906.749" type="line"/>
+      <point x="176.022" y="895.268" type="line"/>
+      <point x="174.523" y="882.361" type="line"/>
+      <point x="174.0" y="867.656" type="line"/>
+      <point x="174.0" y="770.0" type="line"/>
+      <point x="284.0" y="770.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

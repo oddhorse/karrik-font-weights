@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wdieresis.two" format="2">
+  <advance width="801.0"/>
+  <outline>
+    <component base="W.two"/>
+    <component base="dieresis.cap" xOffset="170.5"/>
+  </outline>
+</glyph>

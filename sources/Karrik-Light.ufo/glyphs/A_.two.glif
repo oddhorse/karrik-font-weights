@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A.two" format="2">
+  <advance width="576.0"/>
+  <outline>
+    <contour>
+      <point x="95.538" y="-2.563" type="line"/>
+      <point x="156.53" y="222.968" type="line"/>
+      <point x="406.022" y="232.766" type="line"/>
+      <point x="483.011" y="11.399" type="line"/>
+      <point x="570.618" y="15.039" type="line"/>
+      <point x="320.304" y="685.502" type="line"/>
+      <point x="208.083" y="681.523" type="line"/>
+      <point x="4.100000000000001" y="-5.975" type="line"/>
+    </contour>
+    <contour>
+      <point x="254.60199999999998" y="578.457" type="line"/>
+      <point x="283.955" y="579.517" type="line"/>
+      <point x="375.916" y="319.622" type="line"/>
+      <point x="181.485" y="312.122" type="line"/>
+    </contour>
+  </outline>
+</glyph>

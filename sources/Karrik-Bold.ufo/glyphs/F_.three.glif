@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F.three" format="2">
+  <advance width="556.0"/>
+  <outline>
+    <contour>
+      <point x="245.0" y="326.96009999999995" type="line"/>
+      <point x="471.0" y="326.96009999999995" type="line"/>
+      <point x="471.0" y="449.24789999999996" type="line"/>
+      <point x="245.0" y="449.24789999999996" type="line"/>
+      <point x="245.0" y="555.0" type="line"/>
+      <point x="521.0" y="555.0" type="line"/>
+      <point x="521.0" y="680.0001" type="line"/>
+      <point x="86.0" y="680.0001" type="line"/>
+      <point x="86.0" y="0.0" type="line"/>
+      <point x="245.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

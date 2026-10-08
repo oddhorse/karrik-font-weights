@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fl.cap" format="2">
+  <advance width="1055.0"/>
+  <outline>
+    <component base="F"/>
+    <component base="L" xOffset="491.0"/>
+  </outline>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="X.three" format="2">
+  <advance width="645.0"/>
+  <outline>
+    <contour>
+      <point x="315.015" y="217.6137" type="line"/>
+      <point x="450.387" y="0.0" type="line"/>
+      <point x="626.086" y="0.0" type="line"/>
+      <point x="403.348" y="357.3579" type="line"/>
+      <point x="605.101" y="680.0001" type="line"/>
+      <point x="431.227" y="680.0001" type="line"/>
+      <point x="319.697" y="490.84469999999993" type="line"/>
+      <point x="204.682" y="680.0001" type="line"/>
+      <point x="28.967" y="680.0001" type="line"/>
+      <point x="230.67" y="352.4661" type="line"/>
+      <point x="19.076" y="0.0" type="line"/>
+      <point x="192.915" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.jvRgRKop0a</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

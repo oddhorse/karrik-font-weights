@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L.three" format="2">
+  <advance width="584.0"/>
+  <outline>
+    <contour>
+      <point x="535.0" y="92.84" type="line"/>
+      <point x="166.0" y="92.84" type="line"/>
+      <point x="166.0" y="680.0" type="line"/>
+      <point x="86.0" y="680.0" type="line"/>
+      <point x="86.0" y="0.0" type="line"/>
+      <point x="535.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

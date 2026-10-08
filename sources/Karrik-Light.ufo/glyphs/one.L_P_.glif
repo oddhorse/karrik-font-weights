@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.LP" format="2">
+  <advance width="335.0"/>
+  <outline>
+    <contour>
+      <point x="248.0" y="680.0" type="line"/>
+      <point x="191.831" y="680.0" type="line"/>
+      <point x="191.501" y="679.174" type="line"/>
+      <point x="187.587" y="670.666" type="line"/>
+      <point x="182.717" y="661.55" type="line"/>
+      <point x="176.77" y="652.008" type="line"/>
+      <point x="169.625" y="642.218" type="line"/>
+      <point x="161.165" y="632.367" type="line"/>
+      <point x="151.29" y="622.641" type="line"/>
+      <point x="139.905" y="613.226" type="line"/>
+      <point x="126.92699999999999" y="604.304" type="line"/>
+      <point x="112.28399999999999" y="596.048" type="line"/>
+      <point x="95.909" y="588.623" type="line"/>
+      <point x="77.729" y="582.174" type="line"/>
+      <point x="57.669" y="576.842" type="line"/>
+      <point x="35.651" y="572.759" type="line"/>
+      <point x="30.0" y="572.123" type="line"/>
+      <point x="30.0" y="529.2" type="line"/>
+      <point x="169.0" y="529.2" type="line"/>
+      <point x="169.0" y="0.0" type="line"/>
+      <point x="248.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

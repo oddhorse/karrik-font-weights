@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N.three" format="2">
+  <advance width="641.0"/>
+  <outline>
+    <contour>
+      <point x="173.097" y="491.886" type="line"/>
+      <point x="204.466" y="498.654" type="line"/>
+      <point x="433.815" y="0.0" type="line"/>
+      <point x="555.0" y="0.0" type="line"/>
+      <point x="555.0" y="680.0" type="line"/>
+      <point x="471.0" y="680.0" type="line"/>
+      <point x="471.0" y="195.11" type="line"/>
+      <point x="439.757" y="188.1" type="line"/>
+      <point x="207.33" y="680.0" type="line"/>
+      <point x="90.862" y="680.0" type="line"/>
+      <point x="86.14" y="0.0" type="line"/>
+      <point x="170.12" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

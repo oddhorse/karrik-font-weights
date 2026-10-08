@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemotright.cap" format="2">
+  <advance width="675.0"/>
+  <outline>
+    <contour>
+      <point x="317.0" y="302.637" type="line"/>
+      <point x="317.0" y="391.578" type="line"/>
+      <point x="65.0" y="559.624" type="line"/>
+      <point x="65.0" y="486.015" type="line"/>
+      <point x="259.418" y="347.2" type="line"/>
+      <point x="65.0" y="208.385" type="line"/>
+      <point x="65.0" y="129.274" type="line"/>
+    </contour>
+    <contour>
+      <point x="617.0" y="302.637" type="line"/>
+      <point x="617.0" y="391.578" type="line"/>
+      <point x="365.0" y="559.624" type="line"/>
+      <point x="365.0" y="486.015" type="line"/>
+      <point x="559.418" y="347.2" type="line"/>
+      <point x="365.0" y="208.385" type="line"/>
+      <point x="365.0" y="129.274" type="line"/>
+    </contour>
+  </outline>
+</glyph>

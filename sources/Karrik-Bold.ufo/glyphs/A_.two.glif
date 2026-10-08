@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A.two" format="2">
+  <advance width="656.0"/>
+  <outline>
+    <contour>
+      <point x="169.479" y="-1.3568999999999998" type="line"/>
+      <point x="230.47" y="202.64579999999998" type="line"/>
+      <point x="414.432" y="209.17499999999998" type="line"/>
+      <point x="491.448" y="9.0543" type="line"/>
+      <point x="661.24" y="15.428099999999999" type="line"/>
+      <point x="391.468" y="686.6613" type="line"/>
+      <point x="214.631" y="680.3903999999999" type="line"/>
+      <point x="-5.2890000000000015" y="-7.8777" type="line"/>
+    </contour>
+    <contour>
+      <point x="312.507" y="474.0897" type="line"/>
+      <point x="365.843" y="335.3001" type="line"/>
+      <point x="270.111" y="331.96289999999993" type="line"/>
+    </contour>
+  </outline>
+</glyph>

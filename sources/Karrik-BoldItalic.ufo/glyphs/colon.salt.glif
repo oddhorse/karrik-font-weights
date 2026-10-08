@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon.salt" format="2">
+  <advance width="270.0"/>
+  <outline>
+    <contour>
+      <point x="287.833" y="500.0001" type="line"/>
+      <point x="107.679" y="500.0001" type="line"/>
+      <point x="64.167" y="351.36" type="line"/>
+      <point x="244.321" y="351.36" type="line"/>
+    </contour>
+    <contour>
+      <point x="204.833" y="148.6401" type="line"/>
+      <point x="24.679000000000002" y="148.6401" type="line"/>
+      <point x="-18.833" y="0.0" type="line"/>
+      <point x="161.321" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
